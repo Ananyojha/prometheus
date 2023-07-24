@@ -1,5 +1,7 @@
 [Monitor nginx using Prometheus](https://antonputra.com/monitoring/monitor-nginx-with-prometheus/#install-nginx-prometheus-exporter)
 
+[NEW RELIC BLOG ON PROMETHEOUS](https://newrelic.com/blog/best-practices/what-is-prometheus)
+
 Prometheus is a powerful open-source monitoring and alerting tool that is used to collect and store time-series data. By default, Prometheus stores its time-series database in a directory named `./data`. This location is determined by the `--storage.tsdb.path` flag when starting Prometheus.
 
 Here's a breakdown of what this means:
